@@ -19,10 +19,12 @@ FinSight is a two-page Power BI report built for a financial organization to tra
 ## 🖥️ Dashboard Preview
 
 ### 🧭 Overview Analysis
-![Overview Analysis](assets/Overview_Analysis.png)
+<img width="1536" height="1024" alt="Overview Analysis" src="https://github.com/user-attachments/assets/7fa4d75b-b826-42ed-96b4-05d7eadbe8bc" />
+
 
 ### 📋 Transactions
-![Transactions](assets/Transactions.png)
+<img width="1373" height="728" alt="Transactions" src="https://github.com/user-attachments/assets/66d5ea29-e84f-457d-a629-b367d54230cd" />
+
 
 > 🗂️ Add screenshots to an `assets/` folder for them to display here.
 
